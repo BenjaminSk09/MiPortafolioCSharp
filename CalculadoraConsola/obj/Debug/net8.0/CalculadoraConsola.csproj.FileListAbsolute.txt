@@ -12,3 +12,4 @@ C:\Users\Electronic\source\repos\CalculadoraConsola\CalculadoraConsola\obj\Debug
 C:\Users\Electronic\source\repos\CalculadoraConsola\CalculadoraConsola\obj\Debug\net8.0\CalculadoraConsola.pdb
 C:\Users\Electronic\source\repos\CalculadoraConsola\CalculadoraConsola\obj\Debug\net8.0\CalculadoraConsola.genruntimeconfig.cache
 C:\Users\Electronic\source\repos\CalculadoraConsola\CalculadoraConsola\obj\Debug\net8.0\ref\CalculadoraConsola.dll
+C:\Users\Electronic\source\repos\CalculadoraConsola\CalculadoraConsola\obj\Debug\net8.0\CalculadoraConsola.sourcelink.json

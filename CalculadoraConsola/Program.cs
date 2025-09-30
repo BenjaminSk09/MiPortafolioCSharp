@@ -120,6 +120,8 @@ class Program
 
         }
 
+        Console.WriteLine("Presiona Enter para cerrar la calculadora...");
+        Console.ReadLine();
 
 
     }
