@@ -1,1 +1,5 @@
-.vs/
+echo "bin/" >> .gitignore
+echo "obj/" >> .gitignore
+echo "*.exe" >> .gitignore
+echo "*.user" >> .gitignore
+echo "*.vs" >> .gitignore
